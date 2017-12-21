@@ -16,8 +16,8 @@ import atexit
 
 
 # Marvel API keys
-marvel_public_key = '7e2537e7780cd0aec9f3550988cd5146'
-marvel_private_key = '310555449cd7531280c9762261ea3df969b89e15'
+marvel_public_key = ''
+marvel_private_key = ''
 
 #Attribution = "Data provided by Marvel. 2014 Marvel"
 
